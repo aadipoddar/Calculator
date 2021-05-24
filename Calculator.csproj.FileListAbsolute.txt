@@ -1,0 +1,14 @@
+D:\Apps\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Apps\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Apps\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Apps\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Apps\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Apps\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Apps\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Apps\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Apps\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Apps\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Apps\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+D:\Apps\Calculator\Calculator\Calculator\bin\Debug\Calculator.application
+D:\Apps\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+D:\Apps\Calculator\Calculator\Calculator\obj\Debug\Calculator.application
